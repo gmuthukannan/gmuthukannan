@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmuthukannan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gmuthukannan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gmuthukannan@gmail.com)
-![Location](https://img.shields.io/badge/Surrey,%20BC%20🇨🇦-grey?style=flat-square)
+![Location](https://img.shields.io/badge/Vancouver,%20BC%20🇨🇦-grey?style=flat-square)
 
 </div>
 
@@ -17,7 +17,7 @@ Senior Data Engineer with **14+ years** of experience designing and delivering s
 
 I've processed everything from **400GB state-level healthcare datasets** to **1M+ X12 EDI transactions per month**, always with an eye on reliability, compliance, and scale. Recently I've been diving deep into **LLMs and GenAI**, cutting prompt sizes from 1,800 to 30 characters while achieving a ~40% reduction in latency.
 
-Currently based in **Surrey, BC** — always building something.
+Currently based in **Vancouver, BC** — always building something.
 
 ---
 
